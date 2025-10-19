@@ -1,4 +1,4 @@
-//Write a program to take a number as input and print its equivalent binary representation without arra
+//Write a program to take a number as input and print its equivalent binary representation without array
 #include <stdio.h>
 int main() {
     int n, binary = 0, place = 1, remainder;
